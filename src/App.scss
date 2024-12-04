@@ -1,3 +1,9 @@
-.starter {
-  font-size: 18px;
+.navbar {
+  margin: 20px;
+
+  &-brend {
+    display:flex;
+    align-items: center;
+    gap: 20px;
+  }
 }

@@ -1,0 +1,11 @@
+.media {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+.is-medium {
+  position: fixed;
+  right: 3rem;
+  bottom: 3rem;
+}
